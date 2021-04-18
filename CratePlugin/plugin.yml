@@ -1,0 +1,10 @@
+main: com.lizminecraft.crateplugin.Main
+name: CratePlugin
+description: set up giveaways and prizepools!!
+version: 1.0
+
+api-version: 1.16
+commands:
+   crate:
+   
+ 
